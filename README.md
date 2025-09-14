@@ -123,12 +123,3 @@ Then open the Streamlit link in your browser.
 
 This project is intended for educational and demonstration purposes.
 
----
-
-## Contributing
-
-Feel free to fork this repository and submit pull requests for improvements or bug fixes.
-
-## Support
-
-If you encounter any issues or have questions, please open an issue on GitHub.
